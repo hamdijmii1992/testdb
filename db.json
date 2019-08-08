@@ -1,14 +1,10 @@
 {
+
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "date": "2014_01_01", "time": "00:02:57", "Air_Temp": "35.70", "Barometric_Press": "28.20", "Dew_Point": "32.80","Relative_Humidity": "89.00", "Wind_Dir": "153.60", "Wind_Gust": "13.00", "Wind_Speed": "7.60" },
+    { "date": "2014_01_01", "time": "00:02:57", "Air_Temp": "35.70", "Barometric_Press": "28.20", "Dew_Point": "32.80","Relative_Humidity": "89.00", "Wind_Dir": "153.60", "Wind_Gust": "13.00", "Wind_Speed": "7.60" },
+    { "date": "2014_01_01", "time": "00:02:57", "Air_Temp": "35.70", "Barometric_Press": "28.20", "Dew_Point": "32.80","Relative_Humidity": "89.00", "Wind_Dir": "153.60", "Wind_Gust": "13.00", "Wind_Speed": "7.60" }
+
+  ]
+  
 }
