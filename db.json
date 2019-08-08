@@ -1,6 +1,6 @@
 {
 
-  "DM": [
+  "posts": [
     { "date": "2014_01_01", "time": "00:02:57", "Air_Temp": "35.70", "Barometric_Press": "28.20", "Dew_Point": "32.80","Relative_Humidity": "89.00", "Wind_Dir": "153.60", "Wind_Gust": "13.00", "Wind_Speed": "7.60" },
     { "date": "2014_01_01", "time": "00:02:57", "Air_Temp": "35.70", "Barometric_Press": "28.20", "Dew_Point": "32.80","Relative_Humidity": "89.00", "Wind_Dir": "153.60", "Wind_Gust": "13.00", "Wind_Speed": "7.60" },
     { "date": "2014_01_01", "time": "00:02:57", "Air_Temp": "35.70", "Barometric_Press": "28.20", "Dew_Point": "32.80","Relative_Humidity": "89.00", "Wind_Dir": "153.60", "Wind_Gust": "13.00", "Wind_Speed": "7.60" }
